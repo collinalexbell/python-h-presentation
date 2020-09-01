@@ -1,8 +1,8 @@
 from distutils.core import setup, Extension
 
-module1 = Extension('spam', sources = ['spam.c'])
+module1 = Extension('hello', sources = ['helloworld.c'])
 
-setup (name = 'Spam',
+setup (name = 'Hello World',
        version = '1.0',
-       description = 'This is a demo package',
+       description = '',
        ext_modules = [module1])

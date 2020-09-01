@@ -1,2 +1,2 @@
-/usr/lib/python3.7/site-packages/spam.cpython-37m-x86_64-linux-gnu.so
-/usr/lib/python3.7/site-packages/Spam-1.0-py3.7.egg-info
+/usr/lib/python3.7/site-packages/hello.cpython-37m-x86_64-linux-gnu.so
+/usr/lib/python3.7/site-packages/Hello_World-1.0-py3.7.egg-info
